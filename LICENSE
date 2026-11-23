@@ -1,0 +1,11 @@
+The law texts in laws/ come from the Open Law Book (ספר החוקים הפתוח) on Hebrew Wikisource,
+https://he.wikisource.org/wiki/ויקיטקסט:ספר_החוקים_הפתוח, by its contributors, under the Creative Commons
+Attribution-ShareAlike 4.0 licence, https://creativecommons.org/licenses/by-sa/4.0/ . Files with sourced law text
+name the Wikisource page and revision; files without a confident source match contain Knesset metadata without
+law text. This repository is under the same licence.
+
+The ids, names, dates, stages, tallies and document links come from the Knesset's ParliamentInfo OData
+service, https://knesset.gov.il/OdataV4/ParliamentInfo , and its documents on https://fs.knesset.gov.il .
+
+Commits name members of the Knesset as authors only as a transcription of the official record: the
+addresses are under the reserved .invalid domain and belong to no one. Nothing here is signed by them.
