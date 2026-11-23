@@ -42,6 +42,6 @@
 
 ## יצירת קשר
 
-לפניות ולתיקונים: [corrections@knesset.live](mailto:corrections@knesset.live).
+אתר הפרויקט: [knesset.live](https://knesset.live) · לפניות ולתיקונים: [corrections@knesset.live](mailto:corrections@knesset.live).
 
 </div>
